@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\fordongotoplam\fordongotoplam\bin\Debug\fordongotoplam.exe.config
+C:\Users\User\source\repos\fordongotoplam\fordongotoplam\bin\Debug\fordongotoplam.exe
+C:\Users\User\source\repos\fordongotoplam\fordongotoplam\bin\Debug\fordongotoplam.pdb
+C:\Users\User\source\repos\fordongotoplam\fordongotoplam\obj\Debug\fordongotoplam.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\fordongotoplam\fordongotoplam\obj\Debug\fordongotoplam.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\fordongotoplam\fordongotoplam\obj\Debug\fordongotoplam.Form1.resources
+C:\Users\User\source\repos\fordongotoplam\fordongotoplam\obj\Debug\fordongotoplam.Properties.Resources.resources
+C:\Users\User\source\repos\fordongotoplam\fordongotoplam\obj\Debug\fordongotoplam.csproj.GenerateResource.cache
+C:\Users\User\source\repos\fordongotoplam\fordongotoplam\obj\Debug\fordongotoplam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fordongotoplam\fordongotoplam\obj\Debug\fordongotoplam.exe
+C:\Users\User\source\repos\fordongotoplam\fordongotoplam\obj\Debug\fordongotoplam.pdb
